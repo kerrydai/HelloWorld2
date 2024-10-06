@@ -2,8 +2,13 @@
 
 body {
     background: #fff;
+    font-family: Helvetica, sans-serif;
 
     }
+img{
+    width: 100%;
+}
+
 a.active {
     font-weight: bold;
 }
