@@ -11,6 +11,9 @@ main{
     width: 800px;
 
 }
+.detail{
+    display: flex;
+}
 
 img{
     width: 100%;
